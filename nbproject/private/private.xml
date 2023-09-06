@@ -3,13 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/chess/ChessPiece.java</file>
             <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/application/Program.java</file>
-            <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/chess/pieces/Rook.java</file>
+            <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/boardgame/Board.java</file>
             <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/boardgame/Position.java</file>
             <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/chess/ChessMatch.java</file>
-            <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/boardgame/Piece.java</file>
             <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/chess/pieces/King.java</file>
+            <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/application/UI.java</file>
         </group>
     </open-files>
 </project-private>
