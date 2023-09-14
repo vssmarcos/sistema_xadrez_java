@@ -5,8 +5,7 @@
         <group>
             <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/application/Program.java</file>
             <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/chess/ChessMatch.java</file>
-            <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/chess/pieces/King.java</file>
-            <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/application/UI.java</file>
+            <file>file:/C:/temp/ws-Netbeans/sistema_xadrez/src/chess/pieces/Pawn.java</file>
         </group>
     </open-files>
 </project-private>
